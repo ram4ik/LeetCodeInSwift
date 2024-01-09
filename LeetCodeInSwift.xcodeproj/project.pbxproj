@@ -13,6 +13,8 @@
 		1D1198422B4C82BD007D9AF0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D1198412B4C82BD007D9AF0 /* Preview Assets.xcassets */; };
 		1D1198572B4C831B007D9AF0 /* ContainerWithMostWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D1198562B4C831B007D9AF0 /* ContainerWithMostWater.swift */; };
 		1D1198592B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D1198582B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift */; };
+		1DE99C732B4DC11000C247A9 /* ValidMountainArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE99C722B4DC11000C247A9 /* ValidMountainArray.swift */; };
+		1DE99C752B4DC1D300C247A9 /* ValidMountainArrayTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE99C742B4DC1D300C247A9 /* ValidMountainArrayTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +37,8 @@
 		1D11984D2B4C82E5007D9AF0 /* LeetCodeInSwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LeetCodeInSwiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D1198562B4C831B007D9AF0 /* ContainerWithMostWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerWithMostWater.swift; sourceTree = "<group>"; };
 		1D1198582B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerWithMostWaterTest.swift; sourceTree = "<group>"; };
+		1DE99C722B4DC11000C247A9 /* ValidMountainArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidMountainArray.swift; sourceTree = "<group>"; };
+		1DE99C742B4DC1D300C247A9 /* ValidMountainArrayTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidMountainArrayTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +86,7 @@
 				1D1198432B4C82BD007D9AF0 /* LeetCodeInSwift.entitlements */,
 				1D1198402B4C82BD007D9AF0 /* Preview Content */,
 				1D1198562B4C831B007D9AF0 /* ContainerWithMostWater.swift */,
+				1DE99C722B4DC11000C247A9 /* ValidMountainArray.swift */,
 			);
 			path = LeetCodeInSwift;
 			sourceTree = "<group>";
@@ -98,6 +103,7 @@
 			isa = PBXGroup;
 			children = (
 				1D1198582B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift */,
+				1DE99C742B4DC1D300C247A9 /* ValidMountainArrayTest.swift */,
 			);
 			path = LeetCodeInSwiftTests;
 			sourceTree = "<group>";
@@ -203,6 +209,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D1198572B4C831B007D9AF0 /* ContainerWithMostWater.swift in Sources */,
+				1DE99C732B4DC11000C247A9 /* ValidMountainArray.swift in Sources */,
 				1D11983D2B4C82BA007D9AF0 /* ContentView.swift in Sources */,
 				1D11983B2B4C82BA007D9AF0 /* LeetCodeInSwiftApp.swift in Sources */,
 			);
@@ -213,6 +220,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D1198592B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift in Sources */,
+				1DE99C752B4DC1D300C247A9 /* ValidMountainArrayTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
