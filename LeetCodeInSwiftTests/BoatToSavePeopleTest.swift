@@ -26,5 +26,15 @@ final class BoatToSavePeopleTest: XCTestCase {
         
         XCTAssertEqual(btsp.numRescueBoats([3, 2, 1, 2], 4), 2)
     }
+    
+    func testExample4() throws {
+        
+        XCTAssertEqual(btsp.numRescueBoats([3, 2, 1, 2, 3, 4, 2, 1], 4), 5)
+    }
+    
+    func testExample5() throws {
+        
+        XCTAssertEqual(btsp.numRescueBoats([4, 3, 4, 2, 1, 2], 4), 4)
+    }
 
 }
