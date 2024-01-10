@@ -15,6 +15,8 @@
 		1D1198592B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D1198582B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift */; };
 		1DE99C732B4DC11000C247A9 /* ValidMountainArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE99C722B4DC11000C247A9 /* ValidMountainArray.swift */; };
 		1DE99C752B4DC1D300C247A9 /* ValidMountainArrayTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE99C742B4DC1D300C247A9 /* ValidMountainArrayTest.swift */; };
+		8480BBB22B4E8774008DE55E /* BoatToSavePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */; };
+		8480BBB42B4E892F008DE55E /* BoatToSavePeopleTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480BBB32B4E892F008DE55E /* BoatToSavePeopleTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,6 +41,8 @@
 		1D1198582B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerWithMostWaterTest.swift; sourceTree = "<group>"; };
 		1DE99C722B4DC11000C247A9 /* ValidMountainArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidMountainArray.swift; sourceTree = "<group>"; };
 		1DE99C742B4DC1D300C247A9 /* ValidMountainArrayTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidMountainArrayTest.swift; sourceTree = "<group>"; };
+		8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatToSavePeople.swift; sourceTree = "<group>"; };
+		8480BBB32B4E892F008DE55E /* BoatToSavePeopleTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatToSavePeopleTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +91,7 @@
 				1D1198402B4C82BD007D9AF0 /* Preview Content */,
 				1D1198562B4C831B007D9AF0 /* ContainerWithMostWater.swift */,
 				1DE99C722B4DC11000C247A9 /* ValidMountainArray.swift */,
+				8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */,
 			);
 			path = LeetCodeInSwift;
 			sourceTree = "<group>";
@@ -104,6 +109,7 @@
 			children = (
 				1D1198582B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift */,
 				1DE99C742B4DC1D300C247A9 /* ValidMountainArrayTest.swift */,
+				8480BBB32B4E892F008DE55E /* BoatToSavePeopleTest.swift */,
 			);
 			path = LeetCodeInSwiftTests;
 			sourceTree = "<group>";
@@ -212,6 +218,7 @@
 				1DE99C732B4DC11000C247A9 /* ValidMountainArray.swift in Sources */,
 				1D11983D2B4C82BA007D9AF0 /* ContentView.swift in Sources */,
 				1D11983B2B4C82BA007D9AF0 /* LeetCodeInSwiftApp.swift in Sources */,
+				8480BBB22B4E8774008DE55E /* BoatToSavePeople.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,6 +228,7 @@
 			files = (
 				1D1198592B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift in Sources */,
 				1DE99C752B4DC1D300C247A9 /* ValidMountainArrayTest.swift in Sources */,
+				8480BBB42B4E892F008DE55E /* BoatToSavePeopleTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -359,11 +367,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = LeetCodeInSwift/LeetCodeInSwift.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"LeetCodeInSwift/Preview Content\"";
-				DEVELOPMENT_TEAM = L8W86DZDY2;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
@@ -385,11 +394,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = LeetCodeInSwift/LeetCodeInSwift.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"LeetCodeInSwift/Preview Content\"";
-				DEVELOPMENT_TEAM = L8W86DZDY2;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
