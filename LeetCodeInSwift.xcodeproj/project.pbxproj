@@ -13,6 +13,8 @@
 		1D1198422B4C82BD007D9AF0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D1198412B4C82BD007D9AF0 /* Preview Assets.xcassets */; };
 		1D1198572B4C831B007D9AF0 /* ContainerWithMostWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D1198562B4C831B007D9AF0 /* ContainerWithMostWater.swift */; };
 		1D1198592B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D1198582B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift */; };
+		1D9A514A2B4F044B00224DF5 /* MoveZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9A51492B4F044B00224DF5 /* MoveZeroes.swift */; };
+		1D9A514C2B4F050600224DF5 /* MoveZeroesTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9A514B2B4F050600224DF5 /* MoveZeroesTest.swift */; };
 		1DE99C732B4DC11000C247A9 /* ValidMountainArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE99C722B4DC11000C247A9 /* ValidMountainArray.swift */; };
 		1DE99C752B4DC1D300C247A9 /* ValidMountainArrayTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE99C742B4DC1D300C247A9 /* ValidMountainArrayTest.swift */; };
 		8480BBB22B4E8774008DE55E /* BoatToSavePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */; };
@@ -39,6 +41,8 @@
 		1D11984D2B4C82E5007D9AF0 /* LeetCodeInSwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LeetCodeInSwiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D1198562B4C831B007D9AF0 /* ContainerWithMostWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerWithMostWater.swift; sourceTree = "<group>"; };
 		1D1198582B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerWithMostWaterTest.swift; sourceTree = "<group>"; };
+		1D9A51492B4F044B00224DF5 /* MoveZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveZeroes.swift; sourceTree = "<group>"; };
+		1D9A514B2B4F050600224DF5 /* MoveZeroesTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveZeroesTest.swift; sourceTree = "<group>"; };
 		1DE99C722B4DC11000C247A9 /* ValidMountainArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidMountainArray.swift; sourceTree = "<group>"; };
 		1DE99C742B4DC1D300C247A9 /* ValidMountainArrayTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidMountainArrayTest.swift; sourceTree = "<group>"; };
 		8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatToSavePeople.swift; sourceTree = "<group>"; };
@@ -92,6 +96,7 @@
 				1D1198562B4C831B007D9AF0 /* ContainerWithMostWater.swift */,
 				1DE99C722B4DC11000C247A9 /* ValidMountainArray.swift */,
 				8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */,
+				1D9A51492B4F044B00224DF5 /* MoveZeroes.swift */,
 			);
 			path = LeetCodeInSwift;
 			sourceTree = "<group>";
@@ -110,6 +115,7 @@
 				1D1198582B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift */,
 				1DE99C742B4DC1D300C247A9 /* ValidMountainArrayTest.swift */,
 				8480BBB32B4E892F008DE55E /* BoatToSavePeopleTest.swift */,
+				1D9A514B2B4F050600224DF5 /* MoveZeroesTest.swift */,
 			);
 			path = LeetCodeInSwiftTests;
 			sourceTree = "<group>";
@@ -216,6 +222,7 @@
 			files = (
 				1D1198572B4C831B007D9AF0 /* ContainerWithMostWater.swift in Sources */,
 				1DE99C732B4DC11000C247A9 /* ValidMountainArray.swift in Sources */,
+				1D9A514A2B4F044B00224DF5 /* MoveZeroes.swift in Sources */,
 				1D11983D2B4C82BA007D9AF0 /* ContentView.swift in Sources */,
 				1D11983B2B4C82BA007D9AF0 /* LeetCodeInSwiftApp.swift in Sources */,
 				8480BBB22B4E8774008DE55E /* BoatToSavePeople.swift in Sources */,
@@ -228,6 +235,7 @@
 			files = (
 				1D1198592B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift in Sources */,
 				1DE99C752B4DC1D300C247A9 /* ValidMountainArrayTest.swift in Sources */,
+				1D9A514C2B4F050600224DF5 /* MoveZeroesTest.swift in Sources */,
 				8480BBB42B4E892F008DE55E /* BoatToSavePeopleTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
