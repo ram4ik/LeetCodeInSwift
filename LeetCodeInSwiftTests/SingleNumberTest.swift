@@ -36,4 +36,24 @@ final class SingleNumberTest: XCTestCase {
         
         XCTAssertEqual(sn.singleNumber([1, 1, 2, 2, 5, 5, 9]), 9)
     }
+    
+    func testExample6() throws {
+        
+        XCTAssertEqual(sn.singleNumberWithXOR([2, 2, 1]), 1)
+    }
+        
+    func testExample8() throws {
+        
+        XCTAssertEqual(sn.singleNumberWithXOR([4, 1, 2, 1, 2]), 4)
+    }
+    
+    func testExample9() throws {
+        
+        XCTAssertEqual(sn.singleNumberWithXOR([1, 1, 4]), 4)
+    }
+    
+    func testExample10() throws {
+        
+        XCTAssertEqual(sn.singleNumberWithXOR([1, 1, 2, 2, 5, 5, 9]), 9)
+    }
 }

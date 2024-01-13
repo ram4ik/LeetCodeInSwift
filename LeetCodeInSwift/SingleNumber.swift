@@ -27,4 +27,12 @@ class SingleNumber {
         }
         return -1
     }
+    
+    func singleNumberWithXOR(_ nums: [Int]) -> Int {
+        var ans = 0
+        for num in nums {
+            ans ^= num
+        }
+        return ans
+    }
 }
