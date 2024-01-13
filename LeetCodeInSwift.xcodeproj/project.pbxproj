@@ -19,6 +19,8 @@
 		1D2ECCEC2B4F2E440062F159 /* CountPrimesTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D2ECCEB2B4F2E440062F159 /* CountPrimesTest.swift */; };
 		1D729A732B52841D004E3AE7 /* SingleNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D729A722B52841D004E3AE7 /* SingleNumber.swift */; };
 		1D729A752B5284DA004E3AE7 /* SingleNumberTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D729A742B5284DA004E3AE7 /* SingleNumberTest.swift */; };
+		1D729A772B528981004E3AE7 /* RobotReturnToOrigin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D729A762B528981004E3AE7 /* RobotReturnToOrigin.swift */; };
+		1D729A792B528B19004E3AE7 /* RobotReturnToOriginTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D729A782B528B19004E3AE7 /* RobotReturnToOriginTest.swift */; };
 		1D9A514A2B4F044B00224DF5 /* MoveZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9A51492B4F044B00224DF5 /* MoveZeroes.swift */; };
 		1D9A514C2B4F050600224DF5 /* MoveZeroesTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9A514B2B4F050600224DF5 /* MoveZeroesTest.swift */; };
 		1DE99C732B4DC11000C247A9 /* ValidMountainArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE99C722B4DC11000C247A9 /* ValidMountainArray.swift */; };
@@ -53,6 +55,8 @@
 		1D2ECCEB2B4F2E440062F159 /* CountPrimesTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountPrimesTest.swift; sourceTree = "<group>"; };
 		1D729A722B52841D004E3AE7 /* SingleNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumber.swift; sourceTree = "<group>"; };
 		1D729A742B5284DA004E3AE7 /* SingleNumberTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumberTest.swift; sourceTree = "<group>"; };
+		1D729A762B528981004E3AE7 /* RobotReturnToOrigin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RobotReturnToOrigin.swift; sourceTree = "<group>"; };
+		1D729A782B528B19004E3AE7 /* RobotReturnToOriginTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RobotReturnToOriginTest.swift; sourceTree = "<group>"; };
 		1D9A51492B4F044B00224DF5 /* MoveZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveZeroes.swift; sourceTree = "<group>"; };
 		1D9A514B2B4F050600224DF5 /* MoveZeroesTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveZeroesTest.swift; sourceTree = "<group>"; };
 		1DE99C722B4DC11000C247A9 /* ValidMountainArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidMountainArray.swift; sourceTree = "<group>"; };
@@ -112,6 +116,7 @@
 				1D2ECCE92B4F2CC50062F159 /* CountPrimes.swift */,
 				1D0B34CF2B5077E900698D51 /* MissingNumber.swift */,
 				1D729A722B52841D004E3AE7 /* SingleNumber.swift */,
+				1D729A762B528981004E3AE7 /* RobotReturnToOrigin.swift */,
 			);
 			path = LeetCodeInSwift;
 			sourceTree = "<group>";
@@ -134,6 +139,7 @@
 				1D2ECCEB2B4F2E440062F159 /* CountPrimesTest.swift */,
 				1D0B34D12B507BBB00698D51 /* MissingNumberTest.swift */,
 				1D729A742B5284DA004E3AE7 /* SingleNumberTest.swift */,
+				1D729A782B528B19004E3AE7 /* RobotReturnToOriginTest.swift */,
 			);
 			path = LeetCodeInSwiftTests;
 			sourceTree = "<group>";
@@ -241,6 +247,7 @@
 				1D1198572B4C831B007D9AF0 /* ContainerWithMostWater.swift in Sources */,
 				1D0B34D02B5077E900698D51 /* MissingNumber.swift in Sources */,
 				1D2ECCEA2B4F2CC50062F159 /* CountPrimes.swift in Sources */,
+				1D729A772B528981004E3AE7 /* RobotReturnToOrigin.swift in Sources */,
 				1DE99C732B4DC11000C247A9 /* ValidMountainArray.swift in Sources */,
 				1D9A514A2B4F044B00224DF5 /* MoveZeroes.swift in Sources */,
 				1D11983D2B4C82BA007D9AF0 /* ContentView.swift in Sources */,
@@ -255,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D1198592B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift in Sources */,
+				1D729A792B528B19004E3AE7 /* RobotReturnToOriginTest.swift in Sources */,
 				1D2ECCEC2B4F2E440062F159 /* CountPrimesTest.swift in Sources */,
 				1DE99C752B4DC1D300C247A9 /* ValidMountainArrayTest.swift in Sources */,
 				1D0B34D22B507BBB00698D51 /* MissingNumberTest.swift in Sources */,
