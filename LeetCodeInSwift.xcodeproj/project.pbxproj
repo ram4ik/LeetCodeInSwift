@@ -25,6 +25,8 @@
 		1D729A7D2B52AFD1004E3AE7 /* TwoSumTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D729A7C2B52AFD1004E3AE7 /* TwoSumTest.swift */; };
 		1D9A514A2B4F044B00224DF5 /* MoveZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9A51492B4F044B00224DF5 /* MoveZeroes.swift */; };
 		1D9A514C2B4F050600224DF5 /* MoveZeroesTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9A514B2B4F050600224DF5 /* MoveZeroesTest.swift */; };
+		1DC57E7C2B52D24500F2372B /* AddBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DC57E7B2B52D24500F2372B /* AddBinary.swift */; };
+		1DC57E7E2B52D43100F2372B /* AddBinaryTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DC57E7D2B52D43000F2372B /* AddBinaryTest.swift */; };
 		1DE99C732B4DC11000C247A9 /* ValidMountainArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE99C722B4DC11000C247A9 /* ValidMountainArray.swift */; };
 		1DE99C752B4DC1D300C247A9 /* ValidMountainArrayTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE99C742B4DC1D300C247A9 /* ValidMountainArrayTest.swift */; };
 		8480BBB22B4E8774008DE55E /* BoatToSavePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */; };
@@ -63,6 +65,8 @@
 		1D729A7C2B52AFD1004E3AE7 /* TwoSumTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSumTest.swift; sourceTree = "<group>"; };
 		1D9A51492B4F044B00224DF5 /* MoveZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveZeroes.swift; sourceTree = "<group>"; };
 		1D9A514B2B4F050600224DF5 /* MoveZeroesTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveZeroesTest.swift; sourceTree = "<group>"; };
+		1DC57E7B2B52D24500F2372B /* AddBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBinary.swift; sourceTree = "<group>"; };
+		1DC57E7D2B52D43000F2372B /* AddBinaryTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBinaryTest.swift; sourceTree = "<group>"; };
 		1DE99C722B4DC11000C247A9 /* ValidMountainArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidMountainArray.swift; sourceTree = "<group>"; };
 		1DE99C742B4DC1D300C247A9 /* ValidMountainArrayTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidMountainArrayTest.swift; sourceTree = "<group>"; };
 		8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatToSavePeople.swift; sourceTree = "<group>"; };
@@ -122,6 +126,7 @@
 				1D729A722B52841D004E3AE7 /* SingleNumber.swift */,
 				1D729A762B528981004E3AE7 /* RobotReturnToOrigin.swift */,
 				1D729A7A2B52AF1E004E3AE7 /* TwoSum.swift */,
+				1DC57E7B2B52D24500F2372B /* AddBinary.swift */,
 			);
 			path = LeetCodeInSwift;
 			sourceTree = "<group>";
@@ -146,6 +151,7 @@
 				1D729A742B5284DA004E3AE7 /* SingleNumberTest.swift */,
 				1D729A782B528B19004E3AE7 /* RobotReturnToOriginTest.swift */,
 				1D729A7C2B52AFD1004E3AE7 /* TwoSumTest.swift */,
+				1DC57E7D2B52D43000F2372B /* AddBinaryTest.swift */,
 			);
 			path = LeetCodeInSwiftTests;
 			sourceTree = "<group>";
@@ -254,6 +260,7 @@
 				1D1198572B4C831B007D9AF0 /* ContainerWithMostWater.swift in Sources */,
 				1D0B34D02B5077E900698D51 /* MissingNumber.swift in Sources */,
 				1D2ECCEA2B4F2CC50062F159 /* CountPrimes.swift in Sources */,
+				1DC57E7C2B52D24500F2372B /* AddBinary.swift in Sources */,
 				1D729A772B528981004E3AE7 /* RobotReturnToOrigin.swift in Sources */,
 				1DE99C732B4DC11000C247A9 /* ValidMountainArray.swift in Sources */,
 				1D9A514A2B4F044B00224DF5 /* MoveZeroes.swift in Sources */,
@@ -268,6 +275,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DC57E7E2B52D43100F2372B /* AddBinaryTest.swift in Sources */,
 				1D1198592B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift in Sources */,
 				1D729A792B528B19004E3AE7 /* RobotReturnToOriginTest.swift in Sources */,
 				1D2ECCEC2B4F2E440062F159 /* CountPrimesTest.swift in Sources */,
