@@ -16,6 +16,8 @@
 		1D1198572B4C831B007D9AF0 /* ContainerWithMostWater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D1198562B4C831B007D9AF0 /* ContainerWithMostWater.swift */; };
 		1D1198592B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D1198582B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift */; };
 		1D153F1A2B53194E00C3E2FF /* MergeTwoSortedLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D153F192B53194E00C3E2FF /* MergeTwoSortedLists.swift */; };
+		1D2455622B53D84E00F407A8 /* PathSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D2455612B53D84E00F407A8 /* PathSum.swift */; };
+		1D2455642B53DC1200F407A8 /* PathSumTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D2455632B53DC1200F407A8 /* PathSumTests.swift */; };
 		1D2ECCEA2B4F2CC50062F159 /* CountPrimes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D2ECCE92B4F2CC50062F159 /* CountPrimes.swift */; };
 		1D2ECCEC2B4F2E440062F159 /* CountPrimesTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D2ECCEB2B4F2E440062F159 /* CountPrimesTest.swift */; };
 		1D729A732B52841D004E3AE7 /* SingleNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D729A722B52841D004E3AE7 /* SingleNumber.swift */; };
@@ -59,6 +61,8 @@
 		1D1198562B4C831B007D9AF0 /* ContainerWithMostWater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerWithMostWater.swift; sourceTree = "<group>"; };
 		1D1198582B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerWithMostWaterTest.swift; sourceTree = "<group>"; };
 		1D153F192B53194E00C3E2FF /* MergeTwoSortedLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoSortedLists.swift; sourceTree = "<group>"; };
+		1D2455612B53D84E00F407A8 /* PathSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSum.swift; sourceTree = "<group>"; };
+		1D2455632B53DC1200F407A8 /* PathSumTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSumTests.swift; sourceTree = "<group>"; };
 		1D2ECCE92B4F2CC50062F159 /* CountPrimes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountPrimes.swift; sourceTree = "<group>"; };
 		1D2ECCEB2B4F2E440062F159 /* CountPrimesTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountPrimesTest.swift; sourceTree = "<group>"; };
 		1D729A722B52841D004E3AE7 /* SingleNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumber.swift; sourceTree = "<group>"; };
@@ -135,6 +139,7 @@
 				1DC57E7B2B52D24500F2372B /* AddBinary.swift */,
 				1DC57E7F2B52F83D00F2372B /* ContainsDupliate.swift */,
 				1D153F192B53194E00C3E2FF /* MergeTwoSortedLists.swift */,
+				1D2455612B53D84E00F407A8 /* PathSum.swift */,
 			);
 			path = LeetCodeInSwift;
 			sourceTree = "<group>";
@@ -161,6 +166,7 @@
 				1D729A7C2B52AFD1004E3AE7 /* TwoSumTest.swift */,
 				1DC57E7D2B52D43000F2372B /* AddBinaryTest.swift */,
 				1DC57E812B52F91600F2372B /* ContainsDupliateTest.swift */,
+				1D2455632B53DC1200F407A8 /* PathSumTests.swift */,
 			);
 			path = LeetCodeInSwiftTests;
 			sourceTree = "<group>";
@@ -270,6 +276,7 @@
 				1DC57E802B52F83D00F2372B /* ContainsDupliate.swift in Sources */,
 				1D0B34D02B5077E900698D51 /* MissingNumber.swift in Sources */,
 				1D2ECCEA2B4F2CC50062F159 /* CountPrimes.swift in Sources */,
+				1D2455622B53D84E00F407A8 /* PathSum.swift in Sources */,
 				1DC57E7C2B52D24500F2372B /* AddBinary.swift in Sources */,
 				1D729A772B528981004E3AE7 /* RobotReturnToOrigin.swift in Sources */,
 				1DE99C732B4DC11000C247A9 /* ValidMountainArray.swift in Sources */,
@@ -292,6 +299,7 @@
 				1D2ECCEC2B4F2E440062F159 /* CountPrimesTest.swift in Sources */,
 				1DE99C752B4DC1D300C247A9 /* ValidMountainArrayTest.swift in Sources */,
 				1DC57E822B52F91600F2372B /* ContainsDupliateTest.swift in Sources */,
+				1D2455642B53DC1200F407A8 /* PathSumTests.swift in Sources */,
 				1D0B34D22B507BBB00698D51 /* MissingNumberTest.swift in Sources */,
 				1D729A7D2B52AFD1004E3AE7 /* TwoSumTest.swift in Sources */,
 				1D729A752B5284DA004E3AE7 /* SingleNumberTest.swift in Sources */,
