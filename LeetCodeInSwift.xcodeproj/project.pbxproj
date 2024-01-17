@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		1D0B34D02B5077E900698D51 /* MissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D0B34CF2B5077E900698D51 /* MissingNumber.swift */; };
 		1D0B34D22B507BBB00698D51 /* MissingNumberTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D0B34D12B507BBB00698D51 /* MissingNumberTest.swift */; };
+		1D0DA3102B582A6E0074651C /* FindFirstAndLastPositionOfElementInSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D0DA30F2B582A6E0074651C /* FindFirstAndLastPositionOfElementInSortedArray.swift */; };
+		1D0DA3122B58300C0074651C /* FindFirstAndLastPositionOfElementInSortedArrayTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D0DA3112B58300C0074651C /* FindFirstAndLastPositionOfElementInSortedArrayTest.swift */; };
 		1D11983B2B4C82BA007D9AF0 /* LeetCodeInSwiftApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D11983A2B4C82BA007D9AF0 /* LeetCodeInSwiftApp.swift */; };
 		1D11983D2B4C82BA007D9AF0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D11983C2B4C82BA007D9AF0 /* ContentView.swift */; };
 		1D11983F2B4C82BD007D9AF0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D11983E2B4C82BD007D9AF0 /* Assets.xcassets */; };
@@ -53,6 +55,8 @@
 /* Begin PBXFileReference section */
 		1D0B34CF2B5077E900698D51 /* MissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissingNumber.swift; sourceTree = "<group>"; };
 		1D0B34D12B507BBB00698D51 /* MissingNumberTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissingNumberTest.swift; sourceTree = "<group>"; };
+		1D0DA30F2B582A6E0074651C /* FindFirstAndLastPositionOfElementInSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindFirstAndLastPositionOfElementInSortedArray.swift; sourceTree = "<group>"; };
+		1D0DA3112B58300C0074651C /* FindFirstAndLastPositionOfElementInSortedArrayTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindFirstAndLastPositionOfElementInSortedArrayTest.swift; sourceTree = "<group>"; };
 		1D1198372B4C82BA007D9AF0 /* LeetCodeInSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeetCodeInSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D11983A2B4C82BA007D9AF0 /* LeetCodeInSwiftApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCodeInSwiftApp.swift; sourceTree = "<group>"; };
 		1D11983C2B4C82BA007D9AF0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -145,6 +149,7 @@
 				1D153F192B53194E00C3E2FF /* MergeTwoSortedLists.swift */,
 				1D2455612B53D84E00F407A8 /* PathSum.swift */,
 				1D53F6BB2B55BD7A00C4DAA8 /* LongestSubstringWithoutRepeatingCharacters.swift */,
+				1D0DA30F2B582A6E0074651C /* FindFirstAndLastPositionOfElementInSortedArray.swift */,
 			);
 			path = LeetCodeInSwift;
 			sourceTree = "<group>";
@@ -173,6 +178,7 @@
 				1DC57E812B52F91600F2372B /* ContainsDupliateTest.swift */,
 				1D2455632B53DC1200F407A8 /* PathSumTests.swift */,
 				1D53F6BD2B55BE5600C4DAA8 /* LongestSubstringWithoutRepeatingCharactersTest.swift */,
+				1D0DA3112B58300C0074651C /* FindFirstAndLastPositionOfElementInSortedArrayTest.swift */,
 			);
 			path = LeetCodeInSwiftTests;
 			sourceTree = "<group>";
@@ -288,6 +294,7 @@
 				1DE99C732B4DC11000C247A9 /* ValidMountainArray.swift in Sources */,
 				1D9A514A2B4F044B00224DF5 /* MoveZeroes.swift in Sources */,
 				1D11983D2B4C82BA007D9AF0 /* ContentView.swift in Sources */,
+				1D0DA3102B582A6E0074651C /* FindFirstAndLastPositionOfElementInSortedArray.swift in Sources */,
 				1D53F6BC2B55BD7A00C4DAA8 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
 				1D729A732B52841D004E3AE7 /* SingleNumber.swift in Sources */,
 				1D11983B2B4C82BA007D9AF0 /* LeetCodeInSwiftApp.swift in Sources */,
@@ -306,6 +313,7 @@
 				1D729A792B528B19004E3AE7 /* RobotReturnToOriginTest.swift in Sources */,
 				1D2ECCEC2B4F2E440062F159 /* CountPrimesTest.swift in Sources */,
 				1DE99C752B4DC1D300C247A9 /* ValidMountainArrayTest.swift in Sources */,
+				1D0DA3122B58300C0074651C /* FindFirstAndLastPositionOfElementInSortedArrayTest.swift in Sources */,
 				1DC57E822B52F91600F2372B /* ContainsDupliateTest.swift in Sources */,
 				1D2455642B53DC1200F407A8 /* PathSumTests.swift in Sources */,
 				1D0B34D22B507BBB00698D51 /* MissingNumberTest.swift in Sources */,
