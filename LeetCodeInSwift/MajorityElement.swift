@@ -30,4 +30,24 @@ class MajorityElement {
         
         return majorityElement
     }
+    
+    func majorityElement2(_ nums: [Int]) -> Int {
+        var count = 1
+        var majority = nums[0]
+        let n = nums.count
+        
+        for i in 1..<n {
+            if majority == nums[i] {
+                count += 1
+            } else {
+                count -= 1
+                if count == 0 {
+                    majority = nums[i]
+                    count = 1
+                }
+            }
+        }
+        
+        return majority
+    }
 }

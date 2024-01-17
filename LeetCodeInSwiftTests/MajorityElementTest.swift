@@ -32,4 +32,23 @@ final class MajorityElementTest: XCTestCase {
         XCTAssertEqual(me.majorityElement([4]), 4)
     }
 
+    func testExample5() throws {
+     
+        XCTAssertEqual(me.majorityElement2([3, 2, 3]), 3)
+    }
+
+    func testExample6() throws {
+     
+        XCTAssertEqual(me.majorityElement2([2, 2, 1, 1, 1, 2, 2]), 2)
+    }
+    
+    func testExample7() throws {
+     
+        XCTAssertEqual(me.majorityElement2([3, 1, 2, 3, 4, 3, 3]), 3)
+    }
+    
+    func testExample8() throws {
+     
+        XCTAssertEqual(me.majorityElement2([4]), 4)
+    }
 }
