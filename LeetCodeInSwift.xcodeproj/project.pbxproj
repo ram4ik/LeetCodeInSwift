@@ -32,6 +32,8 @@
 		1D729A7D2B52AFD1004E3AE7 /* TwoSumTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D729A7C2B52AFD1004E3AE7 /* TwoSumTest.swift */; };
 		1D9A514A2B4F044B00224DF5 /* MoveZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9A51492B4F044B00224DF5 /* MoveZeroes.swift */; };
 		1D9A514C2B4F050600224DF5 /* MoveZeroesTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9A514B2B4F050600224DF5 /* MoveZeroesTest.swift */; };
+		1DB4D7202B584D0400DB387E /* MajorityElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DB4D71F2B584D0400DB387E /* MajorityElement.swift */; };
+		1DB4D7222B584DD100DB387E /* MajorityElementTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DB4D7212B584DD100DB387E /* MajorityElementTest.swift */; };
 		1DC57E7C2B52D24500F2372B /* AddBinary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DC57E7B2B52D24500F2372B /* AddBinary.swift */; };
 		1DC57E7E2B52D43100F2372B /* AddBinaryTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DC57E7D2B52D43000F2372B /* AddBinaryTest.swift */; };
 		1DC57E802B52F83D00F2372B /* ContainsDupliate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DC57E7F2B52F83D00F2372B /* ContainsDupliate.swift */; };
@@ -81,6 +83,8 @@
 		1D729A7C2B52AFD1004E3AE7 /* TwoSumTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSumTest.swift; sourceTree = "<group>"; };
 		1D9A51492B4F044B00224DF5 /* MoveZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveZeroes.swift; sourceTree = "<group>"; };
 		1D9A514B2B4F050600224DF5 /* MoveZeroesTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveZeroesTest.swift; sourceTree = "<group>"; };
+		1DB4D71F2B584D0400DB387E /* MajorityElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MajorityElement.swift; sourceTree = "<group>"; };
+		1DB4D7212B584DD100DB387E /* MajorityElementTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MajorityElementTest.swift; sourceTree = "<group>"; };
 		1DC57E7B2B52D24500F2372B /* AddBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBinary.swift; sourceTree = "<group>"; };
 		1DC57E7D2B52D43000F2372B /* AddBinaryTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBinaryTest.swift; sourceTree = "<group>"; };
 		1DC57E7F2B52F83D00F2372B /* ContainsDupliate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainsDupliate.swift; sourceTree = "<group>"; };
@@ -150,6 +154,7 @@
 				1D2455612B53D84E00F407A8 /* PathSum.swift */,
 				1D53F6BB2B55BD7A00C4DAA8 /* LongestSubstringWithoutRepeatingCharacters.swift */,
 				1D0DA30F2B582A6E0074651C /* FindFirstAndLastPositionOfElementInSortedArray.swift */,
+				1DB4D71F2B584D0400DB387E /* MajorityElement.swift */,
 			);
 			path = LeetCodeInSwift;
 			sourceTree = "<group>";
@@ -179,6 +184,7 @@
 				1D2455632B53DC1200F407A8 /* PathSumTests.swift */,
 				1D53F6BD2B55BE5600C4DAA8 /* LongestSubstringWithoutRepeatingCharactersTest.swift */,
 				1D0DA3112B58300C0074651C /* FindFirstAndLastPositionOfElementInSortedArrayTest.swift */,
+				1DB4D7212B584DD100DB387E /* MajorityElementTest.swift */,
 			);
 			path = LeetCodeInSwiftTests;
 			sourceTree = "<group>";
@@ -300,6 +306,7 @@
 				1D11983B2B4C82BA007D9AF0 /* LeetCodeInSwiftApp.swift in Sources */,
 				1D153F1A2B53194E00C3E2FF /* MergeTwoSortedLists.swift in Sources */,
 				8480BBB22B4E8774008DE55E /* BoatToSavePeople.swift in Sources */,
+				1DB4D7202B584D0400DB387E /* MajorityElement.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,6 +319,7 @@
 				1D1198592B4C83F4007D9AF0 /* ContainerWithMostWaterTest.swift in Sources */,
 				1D729A792B528B19004E3AE7 /* RobotReturnToOriginTest.swift in Sources */,
 				1D2ECCEC2B4F2E440062F159 /* CountPrimesTest.swift in Sources */,
+				1DB4D7222B584DD100DB387E /* MajorityElementTest.swift in Sources */,
 				1DE99C752B4DC1D300C247A9 /* ValidMountainArrayTest.swift in Sources */,
 				1D0DA3122B58300C0074651C /* FindFirstAndLastPositionOfElementInSortedArrayTest.swift in Sources */,
 				1DC57E822B52F91600F2372B /* ContainsDupliateTest.swift in Sources */,
