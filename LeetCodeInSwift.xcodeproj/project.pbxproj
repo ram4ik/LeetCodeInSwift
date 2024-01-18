@@ -44,6 +44,7 @@
 		1DC57E822B52F91600F2372B /* ContainsDupliateTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DC57E812B52F91600F2372B /* ContainsDupliateTest.swift */; };
 		1DE99C732B4DC11000C247A9 /* ValidMountainArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE99C722B4DC11000C247A9 /* ValidMountainArray.swift */; };
 		1DE99C752B4DC1D300C247A9 /* ValidMountainArrayTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE99C742B4DC1D300C247A9 /* ValidMountainArrayTest.swift */; };
+		52D5B4DE2B59AE6900DACBFB /* MinimumWindowSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4DD2B59AE6900DACBFB /* MinimumWindowSubstring.swift */; };
 		8480BBB22B4E8774008DE55E /* BoatToSavePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */; };
 		8480BBB42B4E892F008DE55E /* BoatToSavePeopleTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480BBB32B4E892F008DE55E /* BoatToSavePeopleTest.swift */; };
 /* End PBXBuildFile section */
@@ -99,6 +100,7 @@
 		1DC57E812B52F91600F2372B /* ContainsDupliateTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainsDupliateTest.swift; sourceTree = "<group>"; };
 		1DE99C722B4DC11000C247A9 /* ValidMountainArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidMountainArray.swift; sourceTree = "<group>"; };
 		1DE99C742B4DC1D300C247A9 /* ValidMountainArrayTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidMountainArrayTest.swift; sourceTree = "<group>"; };
+		52D5B4DD2B59AE6900DACBFB /* MinimumWindowSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumWindowSubstring.swift; sourceTree = "<group>"; };
 		8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatToSavePeople.swift; sourceTree = "<group>"; };
 		8480BBB32B4E892F008DE55E /* BoatToSavePeopleTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatToSavePeopleTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -165,6 +167,7 @@
 				1DB4D71F2B584D0400DB387E /* MajorityElement.swift */,
 				1D5CC81C2B591BEE004EB938 /* GroupAnagrams.swift */,
 				1D5CC8202B5948F0004EB938 /* HashTablesDictionaries.swift */,
+				52D5B4DD2B59AE6900DACBFB /* MinimumWindowSubstring.swift */,
 			);
 			path = LeetCodeInSwift;
 			sourceTree = "<group>";
@@ -319,6 +322,7 @@
 				1D729A732B52841D004E3AE7 /* SingleNumber.swift in Sources */,
 				1D11983B2B4C82BA007D9AF0 /* LeetCodeInSwiftApp.swift in Sources */,
 				1D153F1A2B53194E00C3E2FF /* MergeTwoSortedLists.swift in Sources */,
+				52D5B4DE2B59AE6900DACBFB /* MinimumWindowSubstring.swift in Sources */,
 				8480BBB22B4E8774008DE55E /* BoatToSavePeople.swift in Sources */,
 				1DB4D7202B584D0400DB387E /* MajorityElement.swift in Sources */,
 			);
