@@ -49,6 +49,7 @@
 		52D5B4E22B5BA55D00DACBFB /* ReversedLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4E12B5BA55D00DACBFB /* ReversedLinkedList.swift */; };
 		52D5B4E42B5BAB5900DACBFB /* LinkedListAddTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4E32B5BAB5900DACBFB /* LinkedListAddTwoNumbers.swift */; };
 		52D5B4E62B5BBBF600DACBFB /* RemoveNthNodeFromEndOfList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4E52B5BBBF600DACBFB /* RemoveNthNodeFromEndOfList.swift */; };
+		52D5B4E82B5BC40800DACBFB /* OddEvenList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4E72B5BC40800DACBFB /* OddEvenList.swift */; };
 		8480BBB22B4E8774008DE55E /* BoatToSavePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */; };
 		8480BBB42B4E892F008DE55E /* BoatToSavePeopleTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480BBB32B4E892F008DE55E /* BoatToSavePeopleTest.swift */; };
 /* End PBXBuildFile section */
@@ -109,6 +110,7 @@
 		52D5B4E12B5BA55D00DACBFB /* ReversedLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReversedLinkedList.swift; sourceTree = "<group>"; };
 		52D5B4E32B5BAB5900DACBFB /* LinkedListAddTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListAddTwoNumbers.swift; sourceTree = "<group>"; };
 		52D5B4E52B5BBBF600DACBFB /* RemoveNthNodeFromEndOfList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveNthNodeFromEndOfList.swift; sourceTree = "<group>"; };
+		52D5B4E72B5BC40800DACBFB /* OddEvenList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OddEvenList.swift; sourceTree = "<group>"; };
 		8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatToSavePeople.swift; sourceTree = "<group>"; };
 		8480BBB32B4E892F008DE55E /* BoatToSavePeopleTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatToSavePeopleTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -180,6 +182,7 @@
 				52D5B4E12B5BA55D00DACBFB /* ReversedLinkedList.swift */,
 				52D5B4E32B5BAB5900DACBFB /* LinkedListAddTwoNumbers.swift */,
 				52D5B4E52B5BBBF600DACBFB /* RemoveNthNodeFromEndOfList.swift */,
+				52D5B4E72B5BC40800DACBFB /* OddEvenList.swift */,
 			);
 			path = LeetCodeInSwift;
 			sourceTree = "<group>";
@@ -337,6 +340,7 @@
 				52D5B4E42B5BAB5900DACBFB /* LinkedListAddTwoNumbers.swift in Sources */,
 				52D5B4E22B5BA55D00DACBFB /* ReversedLinkedList.swift in Sources */,
 				52D5B4DE2B59AE6900DACBFB /* MinimumWindowSubstring.swift in Sources */,
+				52D5B4E82B5BC40800DACBFB /* OddEvenList.swift in Sources */,
 				8480BBB22B4E8774008DE55E /* BoatToSavePeople.swift in Sources */,
 				1DB4D7202B584D0400DB387E /* MajorityElement.swift in Sources */,
 				52D5B4E02B5BA25400DACBFB /* LinkedListCycle.swift in Sources */,
