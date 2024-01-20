@@ -50,6 +50,7 @@
 		52D5B4E42B5BAB5900DACBFB /* LinkedListAddTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4E32B5BAB5900DACBFB /* LinkedListAddTwoNumbers.swift */; };
 		52D5B4E62B5BBBF600DACBFB /* RemoveNthNodeFromEndOfList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4E52B5BBBF600DACBFB /* RemoveNthNodeFromEndOfList.swift */; };
 		52D5B4E82B5BC40800DACBFB /* OddEvenList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4E72B5BC40800DACBFB /* OddEvenList.swift */; };
+		52D5B4EA2B5BE23F00DACBFB /* MergeKSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4E92B5BE23F00DACBFB /* MergeKSortedList.swift */; };
 		8480BBB22B4E8774008DE55E /* BoatToSavePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */; };
 		8480BBB42B4E892F008DE55E /* BoatToSavePeopleTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480BBB32B4E892F008DE55E /* BoatToSavePeopleTest.swift */; };
 /* End PBXBuildFile section */
@@ -111,6 +112,7 @@
 		52D5B4E32B5BAB5900DACBFB /* LinkedListAddTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListAddTwoNumbers.swift; sourceTree = "<group>"; };
 		52D5B4E52B5BBBF600DACBFB /* RemoveNthNodeFromEndOfList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveNthNodeFromEndOfList.swift; sourceTree = "<group>"; };
 		52D5B4E72B5BC40800DACBFB /* OddEvenList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OddEvenList.swift; sourceTree = "<group>"; };
+		52D5B4E92B5BE23F00DACBFB /* MergeKSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeKSortedList.swift; sourceTree = "<group>"; };
 		8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatToSavePeople.swift; sourceTree = "<group>"; };
 		8480BBB32B4E892F008DE55E /* BoatToSavePeopleTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatToSavePeopleTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -183,6 +185,7 @@
 				52D5B4E32B5BAB5900DACBFB /* LinkedListAddTwoNumbers.swift */,
 				52D5B4E52B5BBBF600DACBFB /* RemoveNthNodeFromEndOfList.swift */,
 				52D5B4E72B5BC40800DACBFB /* OddEvenList.swift */,
+				52D5B4E92B5BE23F00DACBFB /* MergeKSortedList.swift */,
 			);
 			path = LeetCodeInSwift;
 			sourceTree = "<group>";
@@ -329,6 +332,7 @@
 				1D2455622B53D84E00F407A8 /* PathSum.swift in Sources */,
 				1DC57E7C2B52D24500F2372B /* AddBinary.swift in Sources */,
 				1D729A772B528981004E3AE7 /* RobotReturnToOrigin.swift in Sources */,
+				52D5B4EA2B5BE23F00DACBFB /* MergeKSortedList.swift in Sources */,
 				1DE99C732B4DC11000C247A9 /* ValidMountainArray.swift in Sources */,
 				1D9A514A2B4F044B00224DF5 /* MoveZeroes.swift in Sources */,
 				1D11983D2B4C82BA007D9AF0 /* ContentView.swift in Sources */,
