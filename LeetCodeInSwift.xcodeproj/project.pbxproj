@@ -51,6 +51,7 @@
 		52D5B4E62B5BBBF600DACBFB /* RemoveNthNodeFromEndOfList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4E52B5BBBF600DACBFB /* RemoveNthNodeFromEndOfList.swift */; };
 		52D5B4E82B5BC40800DACBFB /* OddEvenList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4E72B5BC40800DACBFB /* OddEvenList.swift */; };
 		52D5B4EA2B5BE23F00DACBFB /* MergeKSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4E92B5BE23F00DACBFB /* MergeKSortedList.swift */; };
+		52D5B4EC2B5C126D00DACBFB /* Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4EB2B5C126D00DACBFB /* Subsets.swift */; };
 		8480BBB22B4E8774008DE55E /* BoatToSavePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */; };
 		8480BBB42B4E892F008DE55E /* BoatToSavePeopleTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480BBB32B4E892F008DE55E /* BoatToSavePeopleTest.swift */; };
 /* End PBXBuildFile section */
@@ -113,6 +114,7 @@
 		52D5B4E52B5BBBF600DACBFB /* RemoveNthNodeFromEndOfList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveNthNodeFromEndOfList.swift; sourceTree = "<group>"; };
 		52D5B4E72B5BC40800DACBFB /* OddEvenList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OddEvenList.swift; sourceTree = "<group>"; };
 		52D5B4E92B5BE23F00DACBFB /* MergeKSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeKSortedList.swift; sourceTree = "<group>"; };
+		52D5B4EB2B5C126D00DACBFB /* Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subsets.swift; sourceTree = "<group>"; };
 		8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatToSavePeople.swift; sourceTree = "<group>"; };
 		8480BBB32B4E892F008DE55E /* BoatToSavePeopleTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatToSavePeopleTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -186,6 +188,7 @@
 				52D5B4E52B5BBBF600DACBFB /* RemoveNthNodeFromEndOfList.swift */,
 				52D5B4E72B5BC40800DACBFB /* OddEvenList.swift */,
 				52D5B4E92B5BE23F00DACBFB /* MergeKSortedList.swift */,
+				52D5B4EB2B5C126D00DACBFB /* Subsets.swift */,
 			);
 			path = LeetCodeInSwift;
 			sourceTree = "<group>";
@@ -339,6 +342,7 @@
 				1D0DA3102B582A6E0074651C /* FindFirstAndLastPositionOfElementInSortedArray.swift in Sources */,
 				1D53F6BC2B55BD7A00C4DAA8 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
 				1D729A732B52841D004E3AE7 /* SingleNumber.swift in Sources */,
+				52D5B4EC2B5C126D00DACBFB /* Subsets.swift in Sources */,
 				1D11983B2B4C82BA007D9AF0 /* LeetCodeInSwiftApp.swift in Sources */,
 				1D153F1A2B53194E00C3E2FF /* MergeTwoSortedLists.swift in Sources */,
 				52D5B4E42B5BAB5900DACBFB /* LinkedListAddTwoNumbers.swift in Sources */,
