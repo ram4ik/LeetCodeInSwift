@@ -55,6 +55,7 @@
 		52D5B4EE2B5C451800DACBFB /* LetterCombinationOfPhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4ED2B5C451800DACBFB /* LetterCombinationOfPhoneNumber.swift */; };
 		52D5B4F02B5CF23E00DACBFB /* CombinationSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4EF2B5CF23E00DACBFB /* CombinationSum.swift */; };
 		52D5B4F22B5CFC3100DACBFB /* PalindromPartitioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4F12B5CFC3100DACBFB /* PalindromPartitioning.swift */; };
+		52D5B4F42B5D07F200DACBFB /* SymmetricTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4F32B5D07F200DACBFB /* SymmetricTrees.swift */; };
 		8480BBB22B4E8774008DE55E /* BoatToSavePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */; };
 		8480BBB42B4E892F008DE55E /* BoatToSavePeopleTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480BBB32B4E892F008DE55E /* BoatToSavePeopleTest.swift */; };
 /* End PBXBuildFile section */
@@ -121,6 +122,7 @@
 		52D5B4ED2B5C451800DACBFB /* LetterCombinationOfPhoneNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetterCombinationOfPhoneNumber.swift; sourceTree = "<group>"; };
 		52D5B4EF2B5CF23E00DACBFB /* CombinationSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationSum.swift; sourceTree = "<group>"; };
 		52D5B4F12B5CFC3100DACBFB /* PalindromPartitioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromPartitioning.swift; sourceTree = "<group>"; };
+		52D5B4F32B5D07F200DACBFB /* SymmetricTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymmetricTrees.swift; sourceTree = "<group>"; };
 		8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatToSavePeople.swift; sourceTree = "<group>"; };
 		8480BBB32B4E892F008DE55E /* BoatToSavePeopleTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatToSavePeopleTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -198,6 +200,7 @@
 				52D5B4ED2B5C451800DACBFB /* LetterCombinationOfPhoneNumber.swift */,
 				52D5B4EF2B5CF23E00DACBFB /* CombinationSum.swift */,
 				52D5B4F12B5CFC3100DACBFB /* PalindromPartitioning.swift */,
+				52D5B4F32B5D07F200DACBFB /* SymmetricTrees.swift */,
 			);
 			path = LeetCodeInSwift;
 			sourceTree = "<group>";
@@ -349,6 +352,7 @@
 				1DE99C732B4DC11000C247A9 /* ValidMountainArray.swift in Sources */,
 				1D9A514A2B4F044B00224DF5 /* MoveZeroes.swift in Sources */,
 				1D11983D2B4C82BA007D9AF0 /* ContentView.swift in Sources */,
+				52D5B4F42B5D07F200DACBFB /* SymmetricTrees.swift in Sources */,
 				52D5B4F02B5CF23E00DACBFB /* CombinationSum.swift in Sources */,
 				1D0DA3102B582A6E0074651C /* FindFirstAndLastPositionOfElementInSortedArray.swift in Sources */,
 				1D53F6BC2B55BD7A00C4DAA8 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
