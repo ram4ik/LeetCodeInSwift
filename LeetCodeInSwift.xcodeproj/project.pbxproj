@@ -53,6 +53,7 @@
 		52D5B4EA2B5BE23F00DACBFB /* MergeKSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4E92B5BE23F00DACBFB /* MergeKSortedList.swift */; };
 		52D5B4EC2B5C126D00DACBFB /* Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4EB2B5C126D00DACBFB /* Subsets.swift */; };
 		52D5B4EE2B5C451800DACBFB /* LetterCombinationOfPhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4ED2B5C451800DACBFB /* LetterCombinationOfPhoneNumber.swift */; };
+		52D5B4F02B5CF23E00DACBFB /* CombinationSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4EF2B5CF23E00DACBFB /* CombinationSum.swift */; };
 		8480BBB22B4E8774008DE55E /* BoatToSavePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */; };
 		8480BBB42B4E892F008DE55E /* BoatToSavePeopleTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480BBB32B4E892F008DE55E /* BoatToSavePeopleTest.swift */; };
 /* End PBXBuildFile section */
@@ -117,6 +118,7 @@
 		52D5B4E92B5BE23F00DACBFB /* MergeKSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeKSortedList.swift; sourceTree = "<group>"; };
 		52D5B4EB2B5C126D00DACBFB /* Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subsets.swift; sourceTree = "<group>"; };
 		52D5B4ED2B5C451800DACBFB /* LetterCombinationOfPhoneNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetterCombinationOfPhoneNumber.swift; sourceTree = "<group>"; };
+		52D5B4EF2B5CF23E00DACBFB /* CombinationSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationSum.swift; sourceTree = "<group>"; };
 		8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatToSavePeople.swift; sourceTree = "<group>"; };
 		8480BBB32B4E892F008DE55E /* BoatToSavePeopleTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatToSavePeopleTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -192,6 +194,7 @@
 				52D5B4E92B5BE23F00DACBFB /* MergeKSortedList.swift */,
 				52D5B4EB2B5C126D00DACBFB /* Subsets.swift */,
 				52D5B4ED2B5C451800DACBFB /* LetterCombinationOfPhoneNumber.swift */,
+				52D5B4EF2B5CF23E00DACBFB /* CombinationSum.swift */,
 			);
 			path = LeetCodeInSwift;
 			sourceTree = "<group>";
@@ -343,6 +346,7 @@
 				1DE99C732B4DC11000C247A9 /* ValidMountainArray.swift in Sources */,
 				1D9A514A2B4F044B00224DF5 /* MoveZeroes.swift in Sources */,
 				1D11983D2B4C82BA007D9AF0 /* ContentView.swift in Sources */,
+				52D5B4F02B5CF23E00DACBFB /* CombinationSum.swift in Sources */,
 				1D0DA3102B582A6E0074651C /* FindFirstAndLastPositionOfElementInSortedArray.swift in Sources */,
 				1D53F6BC2B55BD7A00C4DAA8 /* LongestSubstringWithoutRepeatingCharacters.swift in Sources */,
 				1D729A732B52841D004E3AE7 /* SingleNumber.swift in Sources */,
