@@ -43,7 +43,7 @@ class MergeKSortedList {
         
         var lists = lists
         var i = 0
-        var j = lists.count - 1
+        let j = lists.count - 1
         
         while j != 0 {
             i = 0

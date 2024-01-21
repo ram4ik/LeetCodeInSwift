@@ -11,7 +11,7 @@ class LinkedListAddTwoNumbers {
     
     func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
         
-        var ans = ListNode(0)
+        let ans = ListNode(0)
         var pointer = ans
         var carry = 0
         var sum = 0

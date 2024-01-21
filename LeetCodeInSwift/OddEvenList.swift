@@ -15,10 +15,10 @@ class OddEvenList {
             return nil
         }
         
-        var temp: ListNode? = head
+        let temp: ListNode? = head
         var odd: ListNode? = temp
         var even: ListNode? = odd?.next
-        var eventList: ListNode? = even
+        let eventList: ListNode? = even
         
         while even != nil && even?.next != nil {
             odd?.next = even?.next

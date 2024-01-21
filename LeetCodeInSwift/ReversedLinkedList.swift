@@ -11,7 +11,7 @@ class ReversedLinkedList {
     
     func reverseList(_ head: ListNode?) -> ListNode? {
         
-        var prev: ListNode? = nil
+        let prev: ListNode? = nil
         var current = head
         
         while current != nil {
