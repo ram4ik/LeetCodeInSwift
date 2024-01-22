@@ -45,6 +45,7 @@
 		1DE99C732B4DC11000C247A9 /* ValidMountainArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE99C722B4DC11000C247A9 /* ValidMountainArray.swift */; };
 		1DE99C752B4DC1D300C247A9 /* ValidMountainArrayTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE99C742B4DC1D300C247A9 /* ValidMountainArrayTest.swift */; };
 		52A3B1FB2B5EFE0B00FD13F3 /* BinaryTreeLevelOrderTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52A3B1FA2B5EFE0B00FD13F3 /* BinaryTreeLevelOrderTraversal.swift */; };
+		52A3B1FD2B5F00EB00FD13F3 /* BinaryTreeMaximumPathSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52A3B1FC2B5F00EB00FD13F3 /* BinaryTreeMaximumPathSum.swift */; };
 		52D5B4DE2B59AE6900DACBFB /* MinimumWindowSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4DD2B59AE6900DACBFB /* MinimumWindowSubstring.swift */; };
 		52D5B4E02B5BA25400DACBFB /* LinkedListCycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4DF2B5BA25400DACBFB /* LinkedListCycle.swift */; };
 		52D5B4E22B5BA55D00DACBFB /* ReversedLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4E12B5BA55D00DACBFB /* ReversedLinkedList.swift */; };
@@ -121,6 +122,7 @@
 		1DE99C722B4DC11000C247A9 /* ValidMountainArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidMountainArray.swift; sourceTree = "<group>"; };
 		1DE99C742B4DC1D300C247A9 /* ValidMountainArrayTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidMountainArrayTest.swift; sourceTree = "<group>"; };
 		52A3B1FA2B5EFE0B00FD13F3 /* BinaryTreeLevelOrderTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeLevelOrderTraversal.swift; sourceTree = "<group>"; };
+		52A3B1FC2B5F00EB00FD13F3 /* BinaryTreeMaximumPathSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeMaximumPathSum.swift; sourceTree = "<group>"; };
 		52D5B4DD2B59AE6900DACBFB /* MinimumWindowSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumWindowSubstring.swift; sourceTree = "<group>"; };
 		52D5B4DF2B5BA25400DACBFB /* LinkedListCycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListCycle.swift; sourceTree = "<group>"; };
 		52D5B4E12B5BA55D00DACBFB /* ReversedLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReversedLinkedList.swift; sourceTree = "<group>"; };
@@ -228,6 +230,7 @@
 				52D5B5012B5EF37600DACBFB /* SmallestElement.swift */,
 				52D5B5032B5EF9E500DACBFB /* LowestCommonAncestor.swift */,
 				52A3B1FA2B5EFE0B00FD13F3 /* BinaryTreeLevelOrderTraversal.swift */,
+				52A3B1FC2B5F00EB00FD13F3 /* BinaryTreeMaximumPathSum.swift */,
 			);
 			path = LeetCodeInSwift;
 			sourceTree = "<group>";
@@ -376,6 +379,7 @@
 				1D2455622B53D84E00F407A8 /* PathSum.swift in Sources */,
 				1DC57E7C2B52D24500F2372B /* AddBinary.swift in Sources */,
 				1D729A772B528981004E3AE7 /* RobotReturnToOrigin.swift in Sources */,
+				52A3B1FD2B5F00EB00FD13F3 /* BinaryTreeMaximumPathSum.swift in Sources */,
 				52D5B4EE2B5C451800DACBFB /* LetterCombinationOfPhoneNumber.swift in Sources */,
 				52D5B4FA2B5EB3AF00DACBFB /* ValidParenthesis.swift in Sources */,
 				52D5B5022B5EF37600DACBFB /* SmallestElement.swift in Sources */,
