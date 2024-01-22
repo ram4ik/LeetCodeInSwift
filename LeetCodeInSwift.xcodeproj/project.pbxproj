@@ -61,6 +61,7 @@
 		52D5B4FA2B5EB3AF00DACBFB /* ValidParenthesis.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4F92B5EB3AF00DACBFB /* ValidParenthesis.swift */; };
 		52D5B4FC2B5EB49300DACBFB /* HouseRobber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4FB2B5EB49300DACBFB /* HouseRobber.swift */; };
 		52D5B4FE2B5EE34F00DACBFB /* BestTimeBuySellStock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4FD2B5EE34F00DACBFB /* BestTimeBuySellStock.swift */; };
+		52D5B5002B5EF18400DACBFB /* CoinChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D5B4FF2B5EF18400DACBFB /* CoinChange.swift */; };
 		8480BBB22B4E8774008DE55E /* BoatToSavePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */; };
 		8480BBB42B4E892F008DE55E /* BoatToSavePeopleTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8480BBB32B4E892F008DE55E /* BoatToSavePeopleTest.swift */; };
 /* End PBXBuildFile section */
@@ -133,6 +134,7 @@
 		52D5B4F92B5EB3AF00DACBFB /* ValidParenthesis.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidParenthesis.swift; sourceTree = "<group>"; };
 		52D5B4FB2B5EB49300DACBFB /* HouseRobber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseRobber.swift; sourceTree = "<group>"; };
 		52D5B4FD2B5EE34F00DACBFB /* BestTimeBuySellStock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestTimeBuySellStock.swift; sourceTree = "<group>"; };
+		52D5B4FF2B5EF18400DACBFB /* CoinChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinChange.swift; sourceTree = "<group>"; };
 		8480BBB12B4E8774008DE55E /* BoatToSavePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatToSavePeople.swift; sourceTree = "<group>"; };
 		8480BBB32B4E892F008DE55E /* BoatToSavePeopleTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoatToSavePeopleTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -216,6 +218,7 @@
 				52D5B4F92B5EB3AF00DACBFB /* ValidParenthesis.swift */,
 				52D5B4FB2B5EB49300DACBFB /* HouseRobber.swift */,
 				52D5B4FD2B5EE34F00DACBFB /* BestTimeBuySellStock.swift */,
+				52D5B4FF2B5EF18400DACBFB /* CoinChange.swift */,
 			);
 			path = LeetCodeInSwift;
 			sourceTree = "<group>";
@@ -382,6 +385,7 @@
 				52D5B4E22B5BA55D00DACBFB /* ReversedLinkedList.swift in Sources */,
 				52D5B4F82B5D969900DACBFB /* ClimbingStairs.swift in Sources */,
 				52D5B4FC2B5EB49300DACBFB /* HouseRobber.swift in Sources */,
+				52D5B5002B5EF18400DACBFB /* CoinChange.swift in Sources */,
 				52D5B4DE2B59AE6900DACBFB /* MinimumWindowSubstring.swift in Sources */,
 				52D5B4E82B5BC40800DACBFB /* OddEvenList.swift in Sources */,
 				52D5B4F62B5D3B5400DACBFB /* MaximumDepthBinaryTree.swift in Sources */,
